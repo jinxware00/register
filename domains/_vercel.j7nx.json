@@ -3,6 +3,9 @@
         "username": "jinxware00"
     },
     "records": {
-        "TXT": "vc-domain-verify=j7nx.is-a.dev,f2ee3c37800f2d20cd53"
+        "TXT": [
+            "vc-domain-verify=j7nx.is-a.dev,f2ee3c37800f2d20cd53",
+            "vc-domain-verify=www.j7nx.is-a.dev,593b96d371521065509a"
+        ]
     }
 }
